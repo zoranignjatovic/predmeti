@@ -1,0 +1,83 @@
+{
+  "courses": [
+    {
+      "name": "Engineering Mathematics",
+      "code": "TT00EM33-3012",
+      "credits": 5,
+      "topics": [
+        "Polynomial functions and equations",
+        "Vectors",
+        "Analytic geometry",
+        "Differential Calculus",
+        "Trigonometry",
+        "Exponential models and logarithms",
+        "Integral Calculus",
+        "Statistics and Probability",
+        "Number theory",
+        "Algorithms in mathematics"
+      ],
+      "serbianCurriculumCoverage": 95
+    },
+    {
+      "name": "Expressions and Equations",
+      "code": "TT00ES95-3010",
+      "credits": 5,
+      "topics": [
+        "Integers and basic algebraic operations",
+        "Fractions",
+        "Using letters as symbols of numbers",
+        "Simplifying mathematical expressions",
+        "Decimal numbers and calculation accuracy",
+        "Roots and fractional powers",
+        "Solving linear equations and pairs of linear equations",
+        "Solving simple equations with roots",
+        "Coordinate system and basic functions",
+        "Direct and inverse proportionality",
+        "Trigonometric functions",
+        "Exponential and logarithmic functions"
+      ],
+      "serbianCurriculumCoverage": 98
+    },
+    {
+      "name": "Discrete Mathematics",
+      "code": "TT00ES93-3010",
+      "credits": 3,
+      "topics": [
+        "Logic",
+        "Set theory",
+        "Relations",
+        "Functions",
+        "Nets"
+      ],
+      "serbianCurriculumCoverage": 80
+    },
+    {
+      "name": "Probability and Statistics",
+      "code": "TT00ES94-3009",
+      "credits": 3,
+      "topics": [
+        "Population, random sampling, scale",
+        "Statistics",
+        "Probability",
+        "Independence and conditional probability",
+        "Discrete random distributions",
+        "Continuous random distributions",
+        "Correlation and regression",
+        "Statistical testing"
+      ],
+      "serbianCurriculumCoverage": 85
+    },
+    {
+      "name": "Engineering Physics 1",
+      "code": "TT00EZ11-3001",
+      "credits": 5,
+      "topics": [
+        "Heat",
+        "Electricity",
+        "Force and motion",
+        "Periodic motion and waves"
+      ],
+      "serbianCurriculumCoverage": 0
+    }
+  ]
+}
