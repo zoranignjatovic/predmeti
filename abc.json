@@ -1,0 +1,2835 @@
+[
+  {
+    "url": "https://www.posti.com",
+    "visited": true,
+    "totalPageSize": "8.17MB",
+    "pageLoads": [
+      {
+        "filename": "_app-7912cc79fc8e1247.js",
+        "type": "application/javascript",
+        "size": "5.05MB"
+      },
+      {
+        "filename": "9d1cd708-0f4d3eaab5ce40f2.js",
+        "type": "application/javascript",
+        "size": "1.66MB"
+      },
+      {
+        "filename": "index",
+        "type": "text/html",
+        "size": "0.23MB"
+      },
+      {
+        "filename": "image.png",
+        "type": "image/avif",
+        "size": "0.14MB"
+      },
+      {
+        "filename": "framework-9620da855a94eb57.js",
+        "type": "application/javascript",
+        "size": "0.13MB"
+      },
+      {
+        "filename": "main-659f10d1d6843aab.js",
+        "type": "application/javascript",
+        "size": "0.11MB"
+      },
+      {
+        "filename": "448-f22b9c613482a275.js",
+        "type": "application/javascript",
+        "size": "0.07MB"
+      },
+      {
+        "filename": "31-6edf034209532792.js",
+        "type": "application/javascript",
+        "size": "0.07MB"
+      },
+      {
+        "filename": "063b5f20f57c8207a990e29ba19b5dc0.png",
+        "type": "image/avif",
+        "size": "0.07MB"
+      },
+      {
+        "filename": "image.png",
+        "type": "image/avif",
+        "size": "0.07MB"
+      },
+      {
+        "filename": "image.png",
+        "type": "image/avif",
+        "size": "0.07MB"
+      },
+      {
+        "filename": "otBannerSdk.js",
+        "type": "application/javascript",
+        "size": "0.07MB"
+      },
+      {
+        "filename": "image.png",
+        "type": "image/avif",
+        "size": "0.06MB"
+      },
+      {
+        "filename": "otPcCenter.json",
+        "type": "application/json",
+        "size": "0.06MB"
+      },
+      {
+        "filename": "69b8196e515a3d1702ed858a13b11853.jpg",
+        "type": "image/avif",
+        "size": "0.06MB"
+      },
+      {
+        "filename": "33bbf1c2313e2a0ba57d40f786621137.jpg",
+        "type": "image/avif",
+        "size": "0.05MB"
+      },
+      {
+        "filename": "gtm.js",
+        "type": "application/javascript",
+        "size": "0.05MB"
+      },
+      {
+        "filename": "%5B%5B...slug%5D%5D-738092bd8d7478c0.js",
+        "type": "application/javascript",
+        "size": "0.03MB"
+      },
+      {
+        "filename": "favicon.ico",
+        "type": "image/x-icon",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "otSDKStub.js",
+        "type": "application/javascript",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "otCommonStyles.css",
+        "type": "text/css",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "1.1_Posti_logo_Posti_Orange_rgb.png",
+        "type": "image/png",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "otCenterRounded.json",
+        "type": "application/json",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "powered_by_logo.svg",
+        "type": "image/svg+xml",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "typography-posti-font.css",
+        "type": "text/css",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "30188bcee7ea20ea-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "664d07191fe87f79-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "15407456d1a4d526-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "1ea84aae8c555dec-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "c26f890b9bf027f8-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "aacf67935e77fc1f-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "e6f959dfa12b546f-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "dbd312f65b16fdb8-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "93c4ec4dc570674c.css",
+        "type": "text/css",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "webpack-56f9e7d69b16e03a.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "_buildManifest.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "_ssgManifest.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "image",
+        "type": "image/avif",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "PostiFont-Medium.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "fi.json",
+        "type": "application/json",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "a4c5fc7b-ffc7-4778-b670-84c34eb4e30f.json",
+        "type": "application/x-javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "location",
+        "type": "application/json",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "fi.json",
+        "type": "application/x-javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0zLjA1NzQzIDE4LjQyODFMMTguNDM0NyAzLjAwMjA0TDIxIDUuNTcxMzVMNS42MjI2OCAyMC45OTc0TDMuMDU3NDMgMTguNDI4MVoiIGZpbGw9IiM0NzQ5NEIiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik01LjU2NTMgMy4wMDI1OUwyMC45NDI2IDE4LjQyODZMMTguMzc3NCAyMC45OThMMy4wMDAwNCA1LjU3MTlMNS41NjUzIDMuMDAyNTlaIiBmaWxsPSIjNDc0OTRCIi8+Cjwvc3ZnPg==",
+        "type": "image/svg+xml",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "ot_guard_logo.svg",
+        "type": "image/svg+xml",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "PostiFont-Bold.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "PostiFont-Regular.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      }
+    ]
+  },
+  {
+    "url": "https://www.posti.com/corporate/posti-yrityksena",
+    "visited": true,
+    "totalPageSize": "8.00MB",
+    "pageLoads": [
+      {
+        "filename": "_app-7912cc79fc8e1247.js",
+        "type": "application/javascript",
+        "size": "5.05MB"
+      },
+      {
+        "filename": "9d1cd708-0f4d3eaab5ce40f2.js",
+        "type": "application/javascript",
+        "size": "1.66MB"
+      },
+      {
+        "filename": "posti-yrityksena",
+        "type": "text/html",
+        "size": "0.19MB"
+      },
+      {
+        "filename": "image.png",
+        "type": "image/avif",
+        "size": "0.15MB"
+      },
+      {
+        "filename": "framework-9620da855a94eb57.js",
+        "type": "application/javascript",
+        "size": "0.13MB"
+      },
+      {
+        "filename": "otBannerSdk.js",
+        "type": "application/javascript",
+        "size": "0.12MB"
+      },
+      {
+        "filename": "main-659f10d1d6843aab.js",
+        "type": "application/javascript",
+        "size": "0.11MB"
+      },
+      {
+        "filename": "gtm.js",
+        "type": "application/javascript",
+        "size": "0.09MB"
+      },
+      {
+        "filename": "fi.json",
+        "type": "application/x-javascript",
+        "size": "0.08MB"
+      },
+      {
+        "filename": "448-f22b9c613482a275.js",
+        "type": "application/javascript",
+        "size": "0.07MB"
+      },
+      {
+        "filename": "31-6edf034209532792.js",
+        "type": "application/javascript",
+        "size": "0.07MB"
+      },
+      {
+        "filename": "otPcCenter.json",
+        "type": "application/json",
+        "size": "0.06MB"
+      },
+      {
+        "filename": "image.jpg",
+        "type": "image/avif",
+        "size": "0.05MB"
+      },
+      {
+        "filename": "%5B%5B...slug%5D%5D-738092bd8d7478c0.js",
+        "type": "application/javascript",
+        "size": "0.03MB"
+      },
+      {
+        "filename": "Postin_kartta_oranssi.jpg",
+        "type": "image/avif",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "otSDKStub.js",
+        "type": "application/javascript",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "otCommonStyles.css",
+        "type": "text/css",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "1.1_Posti_logo_Posti_Orange_rgb.png",
+        "type": "image/png",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "Ecovadis.png",
+        "type": "image/avif",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "otCenterRounded.json",
+        "type": "application/json",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "powered_by_logo.svg",
+        "type": "image/svg+xml",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "image.png",
+        "type": "image/avif",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "favicon.ico",
+        "type": "image/x-icon",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "gtm.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "otSDKStub.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "typography-posti-font.css",
+        "type": "text/css",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "30188bcee7ea20ea-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "664d07191fe87f79-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "15407456d1a4d526-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "1ea84aae8c555dec-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "c26f890b9bf027f8-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "aacf67935e77fc1f-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "e6f959dfa12b546f-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "dbd312f65b16fdb8-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "93c4ec4dc570674c.css",
+        "type": "text/css",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "webpack-56f9e7d69b16e03a.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "_buildManifest.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "_ssgManifest.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "image",
+        "type": "image/avif",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "PostiFont-Medium.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "a4c5fc7b-ffc7-4778-b670-84c34eb4e30f.json",
+        "type": "application/x-javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "fi.json",
+        "type": "application/json",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "location",
+        "type": "application/json",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "ot_guard_logo.svg",
+        "type": "image/svg+xml",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "consentreceipts",
+        "type": "",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "consentreceipts",
+        "type": "application/json",
+        "size": "0.00MB"
+      }
+    ]
+  },
+  {
+    "url": "https://www.posti.com/corporate/vastuullisuus",
+    "visited": true,
+    "totalPageSize": "8.75MB",
+    "pageLoads": [
+      {
+        "filename": "_app-7912cc79fc8e1247.js",
+        "type": "application/javascript",
+        "size": "5.05MB"
+      },
+      {
+        "filename": "9d1cd708-0f4d3eaab5ce40f2.js",
+        "type": "application/javascript",
+        "size": "1.66MB"
+      },
+      {
+        "filename": "otBannerSdk.js",
+        "type": "application/javascript",
+        "size": "0.42MB"
+      },
+      {
+        "filename": "Posti_3751_Final_Hires-2.jpg",
+        "type": "image/avif",
+        "size": "0.26MB"
+      },
+      {
+        "filename": "vastuullisuus",
+        "type": "text/html",
+        "size": "0.24MB"
+      },
+      {
+        "filename": "Posti_sustis_kesa_rekka_teamstausta1.jpg",
+        "type": "image/avif",
+        "size": "0.21MB"
+      },
+      {
+        "filename": "framework-9620da855a94eb57.js",
+        "type": "application/javascript",
+        "size": "0.13MB"
+      },
+      {
+        "filename": "gtm.js",
+        "type": "application/javascript",
+        "size": "0.12MB"
+      },
+      {
+        "filename": "main-659f10d1d6843aab.js",
+        "type": "application/javascript",
+        "size": "0.11MB"
+      },
+      {
+        "filename": "fi.json",
+        "type": "application/x-javascript",
+        "size": "0.08MB"
+      },
+      {
+        "filename": "448-f22b9c613482a275.js",
+        "type": "application/javascript",
+        "size": "0.07MB"
+      },
+      {
+        "filename": "31-6edf034209532792.js",
+        "type": "application/javascript",
+        "size": "0.07MB"
+      },
+      {
+        "filename": "otPcCenter.json",
+        "type": "application/json",
+        "size": "0.06MB"
+      },
+      {
+        "filename": "fi.json",
+        "type": "application/json",
+        "size": "0.06MB"
+      },
+      {
+        "filename": "%5B%5B...slug%5D%5D-738092bd8d7478c0.js",
+        "type": "application/javascript",
+        "size": "0.03MB"
+      },
+      {
+        "filename": "Posti_0018_Final_Hires.png",
+        "type": "image/avif",
+        "size": "0.03MB"
+      },
+      {
+        "filename": "Posti_4020_Final_Hires.jpg",
+        "type": "image/avif",
+        "size": "0.03MB"
+      },
+      {
+        "filename": "Posti_03-2023_0138_Final_Hires.jpg",
+        "type": "image/avif",
+        "size": "0.03MB"
+      },
+      {
+        "filename": "otSDKStub.js",
+        "type": "application/javascript",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "otCommonStyles.css",
+        "type": "text/css",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "1.1_Posti_logo_Posti_Orange_rgb.png",
+        "type": "image/png",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "otCenterRounded.json",
+        "type": "application/json",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "powered_by_logo.svg",
+        "type": "image/svg+xml",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "gtm.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "otSDKStub.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "a4c5fc7b-ffc7-4778-b670-84c34eb4e30f.json",
+        "type": "application/x-javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "typography-posti-font.css",
+        "type": "text/css",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "30188bcee7ea20ea-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "664d07191fe87f79-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "15407456d1a4d526-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "1ea84aae8c555dec-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "c26f890b9bf027f8-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "aacf67935e77fc1f-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "e6f959dfa12b546f-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "dbd312f65b16fdb8-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "93c4ec4dc570674c.css",
+        "type": "text/css",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "webpack-56f9e7d69b16e03a.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "_buildManifest.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "_ssgManifest.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "image",
+        "type": "image/avif",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "PostiFont-Medium.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "a4c5fc7b-ffc7-4778-b670-84c34eb4e30f.json",
+        "type": "application/x-javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "location",
+        "type": "application/json",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "ot_guard_logo.svg",
+        "type": "image/svg+xml",
+        "size": "0.00MB"
+      }
+    ]
+  },
+  {
+    "url": "https://careers.posti.com/",
+    "visited": true,
+    "totalPageSize": "3.18MB",
+    "pageLoads": [
+      {
+        "filename": "5000_1440_Careers%20main%20page.jpg",
+        "type": "image/webp",
+        "size": "0.76MB"
+      },
+      {
+        "filename": "otBannerSdk.js",
+        "type": "application/javascript",
+        "size": "0.42MB"
+      },
+      {
+        "filename": "gtm.js",
+        "type": "application/javascript",
+        "size": "0.27MB"
+      },
+      {
+        "filename": "Case%20iFolor.jpg",
+        "type": "image/jpeg",
+        "size": "0.19MB"
+      },
+      {
+        "filename": "Weekendbee.jpg",
+        "type": "image/webp",
+        "size": "0.18MB"
+      },
+      {
+        "filename": "frosmo.easy.js",
+        "type": "application/javascript",
+        "size": "0.17MB"
+      },
+      {
+        "filename": "jquery-1.7.1.js",
+        "type": "application/javascript",
+        "size": "0.09MB"
+      },
+      {
+        "filename": "Kotipizza-urasivut.jpg",
+        "type": "image/webp",
+        "size": "0.09MB"
+      },
+      {
+        "filename": "fi.json",
+        "type": "application/x-javascript",
+        "size": "0.08MB"
+      },
+      {
+        "filename": "Goran-My-Posti-Experience-thumbnail%20450x250.png",
+        "type": "image/webp",
+        "size": "0.08MB"
+      },
+      {
+        "filename": "web-interactives-embed.js",
+        "type": "application/javascript",
+        "size": "0.08MB"
+      },
+      {
+        "filename": "Posti_03-2023_0508_Final_960x360.jpg",
+        "type": "image/webp",
+        "size": "0.07MB"
+      },
+      {
+        "filename": "Case_Vaasan_shp1.jpg",
+        "type": "image/webp",
+        "size": "0.07MB"
+      },
+      {
+        "filename": "Case%20sinebrychoff.jpg",
+        "type": "image/webp",
+        "size": "0.07MB"
+      },
+      {
+        "filename": "banner.js",
+        "type": "text/javascript",
+        "size": "0.07MB"
+      },
+      {
+        "filename": "27044354.js",
+        "type": "text/javascript",
+        "size": "0.07MB"
+      },
+      {
+        "filename": "A-lehdet-urasivut.jpg",
+        "type": "image/webp",
+        "size": "0.06MB"
+      },
+      {
+        "filename": "otPcCenter.json",
+        "type": "application/json",
+        "size": "0.06MB"
+      },
+      {
+        "filename": "insight.min.js",
+        "type": "application/javascript",
+        "size": "0.04MB"
+      },
+      {
+        "filename": "Recruitment_Style.min.css",
+        "type": "text/css",
+        "size": "0.03MB"
+      },
+      {
+        "filename": "module_74164199159_Posti_Recruitment_Header_Global.css",
+        "type": "text/css",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "Lucas%20Mayasi%20front%20small.jpg",
+        "type": "image/webp",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "modernizr.min.js",
+        "type": "application/javascript",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "otSDKStub.js",
+        "type": "application/javascript",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "otCommonStyles.css",
+        "type": "text/css",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "1.1_Posti_logo_Posti_Orange_rgb.png",
+        "type": "image/png",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "sonja%20Kimpim%C3%A4ki%20thumb-4.jpg",
+        "type": "image/webp",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "embed.js",
+        "type": "application/javascript",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "index.js",
+        "type": "application/javascript",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "people%20gray.png",
+        "type": "image/webp",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "logo_orange-1.png",
+        "type": "image/webp",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "people%20gray.png",
+        "type": "image/webp",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "fb.js",
+        "type": "application/javascript",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "otCenterRounded.json",
+        "type": "application/json",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "powered_by_logo.svg",
+        "type": "image/svg+xml",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "favicon(1).png",
+        "type": "image/webp",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "index",
+        "type": "text/html",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "project.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "module_74164199144_Ikoni_osio___Icon_section.min.css",
+        "type": "text/css",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "module_74164199151_Posti_Experience_Slider.min.css",
+        "type": "text/css",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "layout.min.css",
+        "type": "text/css",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "100-palapeli.png",
+        "type": "image/webp",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "module_74164199159_Posti_Recruitment_Header_Global.min.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "module_74164199151_Posti_Experience_Slider.min.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "wwwpostifi.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "Telegraf-UltraBold.woff",
+        "type": "application/font-woff",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "montserrat-500.woff",
+        "type": "application/font-woff",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "100-building.png",
+        "type": "image/webp",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "a4c5fc7b-ffc7-4778-b670-84c34eb4e30f.json",
+        "type": "application/x-javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "100-hyvinvointi.png",
+        "type": "image/webp",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "27044354.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "Case%20sinebrychoff.jpg",
+        "type": "",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "Case%20iFolor.jpg",
+        "type": "",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "Weekendbee.jpg",
+        "type": "",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "Goran-My-Posti-Experience-thumbnail%20450x250.png",
+        "type": "",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "A-lehdet-urasivut.jpg",
+        "type": "",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "ot_guard_logo.svg",
+        "type": "image/svg+xml",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "has-permission-json",
+        "type": "text/plain",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "json",
+        "type": "application/json",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "combinedConfigs",
+        "type": "application/json",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "__ptq.gif",
+        "type": "image/gif",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "counters.gif",
+        "type": "image/gif",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "collect",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "attribution_trigger",
+        "type": "application/json",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "index",
+        "type": "text/plain",
+        "size": "0.00MB"
+      }
+    ]
+  },
+  {
+    "url": "https://www.posti.com/corporate/talous-ja-hallinnointi/raportit/tiedotteet",
+    "visited": true,
+    "totalPageSize": "8.20MB",
+    "pageLoads": [
+      {
+        "filename": "_app-7912cc79fc8e1247.js",
+        "type": "application/javascript",
+        "size": "5.05MB"
+      },
+      {
+        "filename": "9d1cd708-0f4d3eaab5ce40f2.js",
+        "type": "application/javascript",
+        "size": "1.66MB"
+      },
+      {
+        "filename": "otBannerSdk.js",
+        "type": "application/javascript",
+        "size": "0.42MB"
+      },
+      {
+        "filename": "tiedotteet",
+        "type": "text/html",
+        "size": "0.21MB"
+      },
+      {
+        "filename": "framework-9620da855a94eb57.js",
+        "type": "application/javascript",
+        "size": "0.13MB"
+      },
+      {
+        "filename": "gtm.js",
+        "type": "application/javascript",
+        "size": "0.12MB"
+      },
+      {
+        "filename": "main-659f10d1d6843aab.js",
+        "type": "application/javascript",
+        "size": "0.11MB"
+      },
+      {
+        "filename": "fi.json",
+        "type": "application/x-javascript",
+        "size": "0.08MB"
+      },
+      {
+        "filename": "448-f22b9c613482a275.js",
+        "type": "application/javascript",
+        "size": "0.07MB"
+      },
+      {
+        "filename": "31-6edf034209532792.js",
+        "type": "application/javascript",
+        "size": "0.07MB"
+      },
+      {
+        "filename": "fi.json",
+        "type": "application/json",
+        "size": "0.06MB"
+      },
+      {
+        "filename": "otPcCenter.json",
+        "type": "application/json",
+        "size": "0.06MB"
+      },
+      {
+        "filename": "%5B%5B...slug%5D%5D-738092bd8d7478c0.js",
+        "type": "application/javascript",
+        "size": "0.03MB"
+      },
+      {
+        "filename": "b27ad408f06c4127630981da8f0b6c4b.jpg",
+        "type": "image/avif",
+        "size": "0.03MB"
+      },
+      {
+        "filename": "otSDKStub.js",
+        "type": "application/javascript",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "otCommonStyles.css",
+        "type": "text/css",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "1.1_Posti_logo_Posti_Orange_rgb.png",
+        "type": "image/png",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "otCenterRounded.json",
+        "type": "application/json",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "powered_by_logo.svg",
+        "type": "image/svg+xml",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "gtm.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "otSDKStub.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "a4c5fc7b-ffc7-4778-b670-84c34eb4e30f.json",
+        "type": "application/x-javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "otBannerSdk.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "fi.json",
+        "type": "application/x-javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "typography-posti-font.css",
+        "type": "text/css",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "30188bcee7ea20ea-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "664d07191fe87f79-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "15407456d1a4d526-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "1ea84aae8c555dec-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "c26f890b9bf027f8-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "aacf67935e77fc1f-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "e6f959dfa12b546f-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "dbd312f65b16fdb8-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "93c4ec4dc570674c.css",
+        "type": "text/css",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "webpack-56f9e7d69b16e03a.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "_buildManifest.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "_ssgManifest.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "image",
+        "type": "image/avif",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "PostiFont-Medium.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "a4c5fc7b-ffc7-4778-b670-84c34eb4e30f.json",
+        "type": "application/x-javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "ot_guard_logo.svg",
+        "type": "image/svg+xml",
+        "size": "0.00MB"
+      }
+    ]
+  },
+  {
+    "url": "https://www.posti.com/postialan-tyoehdoista-sopu-vuodeksi",
+    "visited": true,
+    "totalPageSize": "8.09MB",
+    "pageLoads": [
+      {
+        "filename": "_app-7912cc79fc8e1247.js",
+        "type": "application/javascript",
+        "size": "5.05MB"
+      },
+      {
+        "filename": "9d1cd708-0f4d3eaab5ce40f2.js",
+        "type": "application/javascript",
+        "size": "1.66MB"
+      },
+      {
+        "filename": "otBannerSdk.js",
+        "type": "application/javascript",
+        "size": "0.42MB"
+      },
+      {
+        "filename": "framework-9620da855a94eb57.js",
+        "type": "application/javascript",
+        "size": "0.13MB"
+      },
+      {
+        "filename": "gtm.js",
+        "type": "application/javascript",
+        "size": "0.13MB"
+      },
+      {
+        "filename": "postialan-tyoehdoista-sopu-vuodeksi",
+        "type": "text/html",
+        "size": "0.12MB"
+      },
+      {
+        "filename": "main-659f10d1d6843aab.js",
+        "type": "application/javascript",
+        "size": "0.11MB"
+      },
+      {
+        "filename": "fi.json",
+        "type": "application/x-javascript",
+        "size": "0.08MB"
+      },
+      {
+        "filename": "448-f22b9c613482a275.js",
+        "type": "application/javascript",
+        "size": "0.07MB"
+      },
+      {
+        "filename": "31-6edf034209532792.js",
+        "type": "application/javascript",
+        "size": "0.07MB"
+      },
+      {
+        "filename": "otPcCenter.json",
+        "type": "application/json",
+        "size": "0.06MB"
+      },
+      {
+        "filename": "fi.json",
+        "type": "application/json",
+        "size": "0.06MB"
+      },
+      {
+        "filename": "%5B%5B...slug%5D%5D-738092bd8d7478c0.js",
+        "type": "application/javascript",
+        "size": "0.03MB"
+      },
+      {
+        "filename": "otSDKStub.js",
+        "type": "application/javascript",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "otCommonStyles.css",
+        "type": "text/css",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "1.1_Posti_logo_Posti_Orange_rgb.png",
+        "type": "image/png",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "otCenterRounded.json",
+        "type": "application/json",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "powered_by_logo.svg",
+        "type": "image/svg+xml",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "gtm.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "otSDKStub.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "a4c5fc7b-ffc7-4778-b670-84c34eb4e30f.json",
+        "type": "application/x-javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "otBannerSdk.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "fi.json",
+        "type": "application/x-javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "typography-posti-font.css",
+        "type": "text/css",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "30188bcee7ea20ea-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "664d07191fe87f79-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "15407456d1a4d526-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "1ea84aae8c555dec-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "c26f890b9bf027f8-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "aacf67935e77fc1f-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "e6f959dfa12b546f-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "dbd312f65b16fdb8-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "93c4ec4dc570674c.css",
+        "type": "text/css",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "webpack-56f9e7d69b16e03a.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "_buildManifest.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "_ssgManifest.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "image",
+        "type": "image/avif",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "PostiFont-Medium.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "a4c5fc7b-ffc7-4778-b670-84c34eb4e30f.json",
+        "type": "application/x-javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "ot_guard_logo.svg",
+        "type": "image/svg+xml",
+        "size": "0.00MB"
+      }
+    ]
+  },
+  {
+    "url": "https://www.posti.com/postin-pakettilajittelurobotti-kansainvalisen-teknologiakilpailun-finalisti",
+    "visited": true,
+    "totalPageSize": "7.99MB",
+    "pageLoads": [
+      {
+        "filename": "_app-7912cc79fc8e1247.js",
+        "type": "application/javascript",
+        "size": "5.05MB"
+      },
+      {
+        "filename": "9d1cd708-0f4d3eaab5ce40f2.js",
+        "type": "application/javascript",
+        "size": "1.66MB"
+      },
+      {
+        "filename": "otBannerSdk.js",
+        "type": "application/javascript",
+        "size": "0.39MB"
+      },
+      {
+        "filename": "framework-9620da855a94eb57.js",
+        "type": "application/javascript",
+        "size": "0.13MB"
+      },
+      {
+        "filename": "postin-pakettilajittelurobotti-kansainvalisen-teknologiakilpailun-finalisti",
+        "type": "text/html",
+        "size": "0.12MB"
+      },
+      {
+        "filename": "gtm.js",
+        "type": "application/javascript",
+        "size": "0.12MB"
+      },
+      {
+        "filename": "main-659f10d1d6843aab.js",
+        "type": "application/javascript",
+        "size": "0.11MB"
+      },
+      {
+        "filename": "fi.json",
+        "type": "application/x-javascript",
+        "size": "0.08MB"
+      },
+      {
+        "filename": "448-f22b9c613482a275.js",
+        "type": "application/javascript",
+        "size": "0.07MB"
+      },
+      {
+        "filename": "31-6edf034209532792.js",
+        "type": "application/javascript",
+        "size": "0.07MB"
+      },
+      {
+        "filename": "otPcCenter.json",
+        "type": "application/json",
+        "size": "0.06MB"
+      },
+      {
+        "filename": "%5B%5B...slug%5D%5D-738092bd8d7478c0.js",
+        "type": "application/javascript",
+        "size": "0.03MB"
+      },
+      {
+        "filename": "otSDKStub.js",
+        "type": "application/javascript",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "otCommonStyles.css",
+        "type": "text/css",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "1.1_Posti_logo_Posti_Orange_rgb.png",
+        "type": "image/png",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "otCenterRounded.json",
+        "type": "application/json",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "powered_by_logo.svg",
+        "type": "image/svg+xml",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "gtm.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "typography-posti-font.css",
+        "type": "text/css",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "30188bcee7ea20ea-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "664d07191fe87f79-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "15407456d1a4d526-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "1ea84aae8c555dec-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "c26f890b9bf027f8-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "aacf67935e77fc1f-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "e6f959dfa12b546f-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "dbd312f65b16fdb8-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "93c4ec4dc570674c.css",
+        "type": "text/css",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "webpack-56f9e7d69b16e03a.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "_buildManifest.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "_ssgManifest.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "image",
+        "type": "image/avif",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "PostiFont-Medium.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "a4c5fc7b-ffc7-4778-b670-84c34eb4e30f.json",
+        "type": "application/x-javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "ot_guard_logo.svg",
+        "type": "image/svg+xml",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "fi.json",
+        "type": "application/json",
+        "size": "0.00MB"
+      }
+    ]
+  },
+  {
+    "url": "https://www.posti.com/10092024-Posti-Leijonat-tiedote",
+    "visited": true,
+    "totalPageSize": "8.26MB",
+    "pageLoads": [
+      {
+        "filename": "_app-7912cc79fc8e1247.js",
+        "type": "application/javascript",
+        "size": "5.05MB"
+      },
+      {
+        "filename": "9d1cd708-0f4d3eaab5ce40f2.js",
+        "type": "application/javascript",
+        "size": "1.66MB"
+      },
+      {
+        "filename": "otBannerSdk.js",
+        "type": "application/javascript",
+        "size": "0.42MB"
+      },
+      {
+        "filename": "gtm.js",
+        "type": "application/javascript",
+        "size": "0.27MB"
+      },
+      {
+        "filename": "10092024-Posti-Leijonat-tiedote",
+        "type": "text/html",
+        "size": "0.13MB"
+      },
+      {
+        "filename": "framework-9620da855a94eb57.js",
+        "type": "application/javascript",
+        "size": "0.13MB"
+      },
+      {
+        "filename": "main-659f10d1d6843aab.js",
+        "type": "application/javascript",
+        "size": "0.11MB"
+      },
+      {
+        "filename": "fi.json",
+        "type": "application/x-javascript",
+        "size": "0.08MB"
+      },
+      {
+        "filename": "448-f22b9c613482a275.js",
+        "type": "application/javascript",
+        "size": "0.07MB"
+      },
+      {
+        "filename": "31-6edf034209532792.js",
+        "type": "application/javascript",
+        "size": "0.07MB"
+      },
+      {
+        "filename": "otPcCenter.json",
+        "type": "application/json",
+        "size": "0.06MB"
+      },
+      {
+        "filename": "fi.json",
+        "type": "application/json",
+        "size": "0.06MB"
+      },
+      {
+        "filename": "%5B%5B...slug%5D%5D-738092bd8d7478c0.js",
+        "type": "application/javascript",
+        "size": "0.03MB"
+      },
+      {
+        "filename": "SJL_ja_Posti.png",
+        "type": "image/avif",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "otSDKStub.js",
+        "type": "application/javascript",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "otCommonStyles.css",
+        "type": "text/css",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "1.1_Posti_logo_Posti_Orange_rgb.png",
+        "type": "image/png",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "otCenterRounded.json",
+        "type": "application/json",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "powered_by_logo.svg",
+        "type": "image/svg+xml",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "gtm.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "otSDKStub.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "a4c5fc7b-ffc7-4778-b670-84c34eb4e30f.json",
+        "type": "application/x-javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "otBannerSdk.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "fi.json",
+        "type": "application/x-javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "typography-posti-font.css",
+        "type": "text/css",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "30188bcee7ea20ea-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "664d07191fe87f79-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "15407456d1a4d526-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "1ea84aae8c555dec-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "c26f890b9bf027f8-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "aacf67935e77fc1f-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "e6f959dfa12b546f-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "dbd312f65b16fdb8-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "93c4ec4dc570674c.css",
+        "type": "text/css",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "webpack-56f9e7d69b16e03a.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "_buildManifest.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "_ssgManifest.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "image",
+        "type": "image/avif",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "PostiFont-Medium.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "a4c5fc7b-ffc7-4778-b670-84c34eb4e30f.json",
+        "type": "application/x-javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "ot_guard_logo.svg",
+        "type": "image/svg+xml",
+        "size": "0.00MB"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/company/posti",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.fi/fi",
+    "visited": false
+  },
+  {
+    "url": "https://www.transval.fi/",
+    "visited": false
+  },
+  {
+    "url": "https://www.aditrologistics.com/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.se/",
+    "visited": false
+  },
+  {
+    "url": "https://itella.ee/",
+    "visited": false
+  },
+  {
+    "url": "https://itella.lv/",
+    "visited": false
+  },
+  {
+    "url": "https://itella.lt/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/corporate/yhteystiedot",
+    "visited": true,
+    "totalPageSize": "8.08MB",
+    "pageLoads": [
+      {
+        "filename": "_app-7912cc79fc8e1247.js",
+        "type": "application/javascript",
+        "size": "5.05MB"
+      },
+      {
+        "filename": "9d1cd708-0f4d3eaab5ce40f2.js",
+        "type": "application/javascript",
+        "size": "1.66MB"
+      },
+      {
+        "filename": "otBannerSdk.js",
+        "type": "application/javascript",
+        "size": "0.42MB"
+      },
+      {
+        "filename": "yhteystiedot",
+        "type": "text/html",
+        "size": "0.16MB"
+      },
+      {
+        "filename": "framework-9620da855a94eb57.js",
+        "type": "application/javascript",
+        "size": "0.13MB"
+      },
+      {
+        "filename": "gtm.js",
+        "type": "application/javascript",
+        "size": "0.12MB"
+      },
+      {
+        "filename": "main-659f10d1d6843aab.js",
+        "type": "application/javascript",
+        "size": "0.11MB"
+      },
+      {
+        "filename": "fi.json",
+        "type": "application/x-javascript",
+        "size": "0.08MB"
+      },
+      {
+        "filename": "448-f22b9c613482a275.js",
+        "type": "application/javascript",
+        "size": "0.07MB"
+      },
+      {
+        "filename": "31-6edf034209532792.js",
+        "type": "application/javascript",
+        "size": "0.07MB"
+      },
+      {
+        "filename": "otPcCenter.json",
+        "type": "application/json",
+        "size": "0.06MB"
+      },
+      {
+        "filename": "%5B%5B...slug%5D%5D-738092bd8d7478c0.js",
+        "type": "application/javascript",
+        "size": "0.03MB"
+      },
+      {
+        "filename": "9663e8b4d068a1dff3d19a57cc4caa4b.jpg",
+        "type": "image/avif",
+        "size": "0.03MB"
+      },
+      {
+        "filename": "otSDKStub.js",
+        "type": "application/javascript",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "otCommonStyles.css",
+        "type": "text/css",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "1.1_Posti_logo_Posti_Orange_rgb.png",
+        "type": "image/png",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "otCenterRounded.json",
+        "type": "application/json",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "powered_by_logo.svg",
+        "type": "image/svg+xml",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "gtm.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "otSDKStub.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "a4c5fc7b-ffc7-4778-b670-84c34eb4e30f.json",
+        "type": "application/x-javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "otBannerSdk.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "fi.json",
+        "type": "application/x-javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "otCenterRounded.json",
+        "type": "application/json",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "otPcCenter.json",
+        "type": "application/json",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "typography-posti-font.css",
+        "type": "text/css",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "30188bcee7ea20ea-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "664d07191fe87f79-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "15407456d1a4d526-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "1ea84aae8c555dec-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "c26f890b9bf027f8-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "aacf67935e77fc1f-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "e6f959dfa12b546f-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "dbd312f65b16fdb8-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "93c4ec4dc570674c.css",
+        "type": "text/css",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "webpack-56f9e7d69b16e03a.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "_buildManifest.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "_ssgManifest.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "image",
+        "type": "image/avif",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "PostiFont-Medium.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "a4c5fc7b-ffc7-4778-b670-84c34eb4e30f.json",
+        "type": "application/x-javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "ot_guard_logo.svg",
+        "type": "image/svg+xml",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "fi.json",
+        "type": "application/json",
+        "size": "0.00MB"
+      }
+    ]
+  },
+  {
+    "url": "https://www.posti.com/corporate/vastuullisuus/ilmoituskanava",
+    "visited": true,
+    "totalPageSize": "8.21MB",
+    "pageLoads": [
+      {
+        "filename": "_app-7912cc79fc8e1247.js",
+        "type": "application/javascript",
+        "size": "5.05MB"
+      },
+      {
+        "filename": "9d1cd708-0f4d3eaab5ce40f2.js",
+        "type": "application/javascript",
+        "size": "1.66MB"
+      },
+      {
+        "filename": "otBannerSdk.js",
+        "type": "application/javascript",
+        "size": "0.42MB"
+      },
+      {
+        "filename": "gtm.js",
+        "type": "application/javascript",
+        "size": "0.27MB"
+      },
+      {
+        "filename": "ilmoituskanava",
+        "type": "text/html",
+        "size": "0.15MB"
+      },
+      {
+        "filename": "framework-9620da855a94eb57.js",
+        "type": "application/javascript",
+        "size": "0.13MB"
+      },
+      {
+        "filename": "main-659f10d1d6843aab.js",
+        "type": "application/javascript",
+        "size": "0.11MB"
+      },
+      {
+        "filename": "fi.json",
+        "type": "application/x-javascript",
+        "size": "0.08MB"
+      },
+      {
+        "filename": "448-f22b9c613482a275.js",
+        "type": "application/javascript",
+        "size": "0.07MB"
+      },
+      {
+        "filename": "31-6edf034209532792.js",
+        "type": "application/javascript",
+        "size": "0.07MB"
+      },
+      {
+        "filename": "otPcCenter.json",
+        "type": "application/json",
+        "size": "0.06MB"
+      },
+      {
+        "filename": "%5B%5B...slug%5D%5D-738092bd8d7478c0.js",
+        "type": "application/javascript",
+        "size": "0.03MB"
+      },
+      {
+        "filename": "otSDKStub.js",
+        "type": "application/javascript",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "otCommonStyles.css",
+        "type": "text/css",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "1.1_Posti_logo_Posti_Orange_rgb.png",
+        "type": "image/png",
+        "size": "0.02MB"
+      },
+      {
+        "filename": "otCenterRounded.json",
+        "type": "application/json",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "powered_by_logo.svg",
+        "type": "image/svg+xml",
+        "size": "0.01MB"
+      },
+      {
+        "filename": "gtm.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "typography-posti-font.css",
+        "type": "text/css",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "30188bcee7ea20ea-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "664d07191fe87f79-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "15407456d1a4d526-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "1ea84aae8c555dec-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "c26f890b9bf027f8-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "aacf67935e77fc1f-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "e6f959dfa12b546f-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "dbd312f65b16fdb8-s.p.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "93c4ec4dc570674c.css",
+        "type": "text/css",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "webpack-56f9e7d69b16e03a.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "_buildManifest.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "_ssgManifest.js",
+        "type": "application/javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "image",
+        "type": "image/avif",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "PostiFont-Medium.woff2",
+        "type": "font/woff2",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "a4c5fc7b-ffc7-4778-b670-84c34eb4e30f.json",
+        "type": "application/x-javascript",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "ot_guard_logo.svg",
+        "type": "image/svg+xml",
+        "size": "0.00MB"
+      },
+      {
+        "filename": "fi.json",
+        "type": "application/json",
+        "size": "0.00MB"
+      }
+    ]
+  },
+  {
+    "url": "https://www.posti.com/hankinta",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/kiinteistot",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/kayttoehdot",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/yksityisyydensuoja",
+    "visited": false
+  },
+  {
+    "url": "https://careers.posti.com/tietosuojaseloste#_ga=2.54313313.850790049.1718714251-347111443.1717490435",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.fi/fi/evasteet",
+    "visited": false
+  },
+  {
+    "url": "https://www.onetrust.com/products/cookie-consent/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/corporate/posti-yrityksena#navskip",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/corporate/posti-yrityksena/palvelumme",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/corporate/posti-yrityksena/strategia",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/corporate/posti-yrityksena/palkinnot",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/corporate/posti-yrityksena/historia",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/corporate/vastuullisuus/ymparisto",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/corporate/vastuullisuus/ihmiset",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/corporate/vastuullisuus/johtaminen",
+    "visited": false
+  },
+  {
+    "url": "https://minun.posti.fi/webinaarit",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/corporate/vastuullisuus/esimerkit",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/corporate/vastuullisuus/esimerkit/case-uusiutuva-diesel",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/corporate/vastuullisuus/esimerkit/case-kuljetusten-paastojen-pienentaminen",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/corporate/vastuullisuus/esimerkit/case-kiinteistojen-energiatehokkuus",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/corporate/vastuullisuus/ajankohtaista",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/posti-jalleen-financial-timesin-ilmastojohtajat-listalla-ainoana-suomalaisena-logistiikkayhtiona",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/postin-tasa-arvo-ja-yhdenvertaisuusohjelma-on-paivitetty",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/posti-vahvistaa-vastuullisuusosaamistaan-uusilla-osaajilla",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/yhteystiedot/",
+    "visited": false
+  },
+  {
+    "url": "https://careers.posti.com/en/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/posti-yrityksena/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/hallinnointi/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/vastuullisuus/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/media/",
+    "visited": false
+  },
+  {
+    "url": "https://careers.posti.com/kiinnostavia-mahdollisuuksia",
+    "visited": false
+  },
+  {
+    "url": "https://careers.posti.com/posti-tyopaikkana",
+    "visited": false
+  },
+  {
+    "url": "https://careers.posti.com/postilaisten-tarinat",
+    "visited": false
+  },
+  {
+    "url": "https://careers.posti.com/posti-lyhyesti",
+    "visited": false
+  },
+  {
+    "url": "https://careers.posti.com/opiskelijat",
+    "visited": false
+  },
+  {
+    "url": "https://careers.posti.com/kuljetusakatemia",
+    "visited": false
+  },
+  {
+    "url": "https://posti.wd3.myworkdayjobs.com/fi-FI/external",
+    "visited": false
+  },
+  {
+    "url": "https://careers.posti.com/#",
+    "visited": false
+  },
+  {
+    "url": "https://careers.posti.com/#0",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/posti-yrityksena/posti-lyhyesti/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/posti-yrityksena/strategia/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/posti-yrityksena/historia/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/posti-yrityksena/sponsorointi/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/hallinnointi/toimintaymparisto/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/hallinnointi/taloudellista-tietoa/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/hallinnointi/taloudellista-tietoa/talousviestinnan-politiikka/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/hallinnointi/taloudellista-tietoa/tulevaisuuden-nakymat/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/hallinnointi/taloudellista-tietoa/raportointikaytanto2/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/hallinnointi/taloudellista-tietoa/raportoitavat-segmentit/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/hallinnointi/taloudellista-tietoa/taloudelliset-tavoitteet/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/hallinnointi/taloudellista-tietoa/tunnuslukujen-laskentakaavat-ifrs/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/hallinnointi/hallinnointi/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/hallinnointi/hallinnointi/hallintomalli/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/hallinnointi/hallinnointi/omistaja/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/hallinnointi/hallinnointi/yhtiokokous/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/hallinnointi/hallinnointi/hallintoneuvosto/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/hallinnointi/hallinnointi/hallitus-ja-sen-valiokunnat/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/hallinnointi/hallinnointi/johto/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/hallinnointi/hallinnointi/palkka--ja-palkkioselvitys/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/hallinnointi/hallinnointi/riskienhallinta-ja-valvonta/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/hallinnointi/hallinnointi/sisapiirihallinto/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/hallinnointi/hallinnointi/tilintarkastus/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/hallinnointi/hallinnointi/yhtiojarjestys/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/hallinnointi/raportit-ja-esitykset/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/hallinnointi/raportit-ja-esitykset/media--ja-taloustiedotteet/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/hallinnointi/raportit-ja-esitykset/vuosikertomukset/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/hallinnointi/raportit-ja-esitykset/osavuosikatsaukset-ja-tilinpaatokset/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/hallinnointi/raportit-ja-esitykset/selvitykset-hallinto--ja-ohjausjarjestelmasta/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/hallinnointi/tapahtumakalenteri/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/vastuullisuus/yritysvastuun-johtaminen/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/vastuullisuus/yritysvastuun-johtaminen/johtamisen-kulmakivet/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/vastuullisuus/yritysvastuun-johtaminen/eettiset-ohjeet/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/vastuullisuus/taloudellinen-vastuu/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/vastuullisuus/yhteiskuntavastuu/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/vastuullisuus/yhteiskuntavastuu/postilaki-uudistuu/",
+    "visited": false
+  },
+  {
+    "url": "https://careers.posti.com/vastuullisuus/henkilostovastuu/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/vastuullisuus/henkilostovastuu/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/vastuullisuus/henkilostovastuu/sealed-with-pride/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/vastuullisuus/ymparistovastuu/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/vastuullisuus/ymparistovastuu/posti-green--palvelut/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/vastuullisuus/ymparistovastuu/energia/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/vastuullisuus/ymparistovastuu/kuljetus/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/vastuullisuus/ymparistovastuu/ilmastoprojektit/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/vastuullisuus/ymparistovastuu/ymparistopolitiikka/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/vastuullisuus/sidosryhmat/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/ura-meilla/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/media/media-ja-taloustiedotteet/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/media/viestinnan-yhteystiedot/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/media/kuvapankki/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/palvelut/palvelut/",
+    "visited": false
+  },
+  {
+    "url": "https://posti.wd3.myworkdayjobs.com/external",
+    "visited": false
+  },
+  {
+    "url": "https://careers.posti.com/artikkeli-lucas-mayasi",
+    "visited": false
+  },
+  {
+    "url": "https://careers.posti.com/artikkeli-sonja-kimpimaki",
+    "visited": false
+  },
+  {
+    "url": "https://careers.posti.com/artikkeli-goran-gjorgievski",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.fi/fi/yrityksille/vinkit-ja-caset/verkkokauppa/weekendbee-fi-malliesimerkki-vastuullisesta-verkkokaupasta?__hstc=204956175.ab987bf08afad53057e1fa14be00ff9b.1726741276208.1726741276208.1726741276208.1&__hssc=204956175.2.1726741276208&__hsfp=1140534217",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.fi/fi/yrityksille/vinkit-ja-caset/verkkokauppa/case-ifolor?__hstc=204956175.ab987bf08afad53057e1fa14be00ff9b.1726741276208.1726741276208.1726741276208.1&__hssc=204956175.2.1726741276208&__hsfp=1140534217",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.fi/fi/yrityksille/vinkit-ja-caset/logistiikka/pitkan-kumppanuuden-taustalla-luottamus-ja-jatkuva-kehittaminen?__hstc=204956175.ab987bf08afad53057e1fa14be00ff9b.1726741276208.1726741276208.1726741276208.1&__hssc=204956175.2.1726741276208&__hsfp=1140534217",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.fi/fi/yrityksille/vinkit-ja-caset/dataa-ja-markkinointia/a-lehdet-hakee-osuvampaa-myyntia-asiakasdatan-jatkuvalla?__hstc=204956175.ab987bf08afad53057e1fa14be00ff9b.1726741276208.1726741276208.1726741276208.1&__hssc=204956175.2.1726741276208&__hsfp=1140534217",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.fi/fi/yrityksille/vinkit-ja-caset/monikanavainen-viestinta/article-case-vaasan-sairaanhoitopiiri-ipost-vapauttaa-aikaa?__hstc=204956175.ab987bf08afad53057e1fa14be00ff9b.1726741276208.1726741276208.1726741276208.1&__hssc=204956175.2.1726741276208&__hsfp=1140534217",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.fi/fi/yrityksille/vinkit-ja-caset/dataa-ja-markkinointia/kotipizza-tekee-lisamyyntia-postisen-kupongeilla?__hstc=204956175.ab987bf08afad53057e1fa14be00ff9b.1726741276208.1726741276208.1726741276208.1&__hssc=204956175.2.1726741276208&__hsfp=1140534217",
+    "visited": false
+  },
+  {
+    "url": "https://twitter.com/postigroup",
+    "visited": false
+  },
+  {
+    "url": "https://fi-fi.facebook.com/Posti/",
+    "visited": false
+  },
+  {
+    "url": "https://www.youtube.com/user/ItellaPosti",
+    "visited": false
+  },
+  {
+    "url": "http://www.posti.fi/henkiloasiakkaat/?__hstc=204956175.ab987bf08afad53057e1fa14be00ff9b.1726741276208.1726741276208.1726741276208.1&__hssc=204956175.2.1726741276208&__hsfp=1140534217",
+    "visited": false
+  },
+  {
+    "url": "http://www.posti.fi/yritysasiakkaat/?__hstc=204956175.ab987bf08afad53057e1fa14be00ff9b.1726741276208.1726741276208.1726741276208.1&__hssc=204956175.2.1726741276208&__hsfp=1140534217",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/yhteydenottolomake/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/kayttoehdot/",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/yksityisyydensuoja/",
+    "visited": false
+  },
+  {
+    "url": "https://careers.posti.com/tietosuojaseloste",
+    "visited": false
+  },
+  {
+    "url": "https://posti.fi/fi/evasteet?__hstc=204956175.ab987bf08afad53057e1fa14be00ff9b.1726741276208.1726741276208.1726741276208.1&__hssc=204956175.2.1726741276208&__hsfp=1140534217",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/corporate/talous-ja-hallinnointi/raportit/tiedotteet#navskip",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/corporate",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/fi/corporate/talous-ja-hallinnointi",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/fi/corporate/talous-ja-hallinnointi/raportit",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/29082024-Posti-Ecovadis-tiedote",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/28082024-Posti-Peter-Ervasalo-tiedote",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/27082024-Posti-SBTN-ohjelma-tiedote",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/26082024-secondhand-syyskuu-mallistot-muotilive",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/2024-08-23-jakelutuki",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/muutosneuvottelut-irtisanomisten-tarve-pieneni-merkitt%C3%A4v%C3%A4sti-tampere",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/20240816-secondhand-syyskuu-kokoaa-alan-toimijoita-yhteen",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/postialan-tyoehdoista-sopu-vuodeksi#navskip",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/postin-pakettilajittelurobotti-kansainvalisen-teknologiakilpailun-finalisti#navskip",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/10092024-Posti-Leijonat-tiedote#navskip",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/corporate/yhteystiedot#navskip",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.fi/fi/asiakastuki/ota-yhteytta/henkiloasiakkaiden-asiakaspalvelu",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/corporate/vastuullisuus/ilmoituskanava#navskip",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.com/fi/corporate/vastuullisuus",
+    "visited": false
+  },
+  {
+    "url": "https://www.posti.fi/fi/asiakastuki",
+    "visited": false
+  },
+  {
+    "url": "https://itella.sharepoint.com/sites/Intranet-Cyber-security-and-Data-protection/",
+    "visited": false
+  },
+  {
+    "url": "https://itella.sharepoint.com/sites/Intranet-Safety-at-work",
+    "visited": false
+  },
+  {
+    "url": "http://www.speakupfeedback.eu/web/postigroup/fi",
+    "visited": false
+  },
+  {
+    "url": "http://www.speakupfeedback.eu/web/postigroupexternals/fi",
+    "visited": false
+  }
+]
